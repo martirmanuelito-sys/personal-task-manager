@@ -31,6 +31,4 @@ MySQL
 
   <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/0063afd5-b207-44ab-932b-1cdd4baaf673" />
 
-  <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/bf1b2396-0d8f-4c08-a70c-c85784e94966" />
-
-  <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/bf1b2396-0d8f-4c08-a70c-c85784e94966" />
+  
