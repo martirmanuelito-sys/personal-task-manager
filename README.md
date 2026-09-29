@@ -24,3 +24,5 @@ MySQL
 
   ## Screenshot
   ![image alt](https://github.com/martirmanuelito-sys/personal-task-manager/blob/ceb2fa8b1b44a8c5c4b10bdc61aacc54d9cab8f9/Screenshot%202026-09-29%20204647first.png)
+
+  <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d9305fe3-f316-4311-b007-04dfe215c1ac" />
