@@ -30,7 +30,7 @@ MySQL
 
 
   
- 2. Enter the task name, description, due date, and status.Click Save to save the task.
+ 2. Enter the task name, description, due date, and status. Click 'Add Task' to save the task.
  
   <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/d9305fe3-f316-4311-b007-04dfe215c1ac" />
 
